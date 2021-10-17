@@ -1,1 +1,1 @@
-TinDog Site developed using HTML, CSS & Bootstrap.
+TinDog Site developed using HTML, CSS & Bootstrap🐶
